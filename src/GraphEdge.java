@@ -1,7 +1,5 @@
 /**
  * @author Lukas Bozinov
- * Professor: Mr. Solis-Oba
- * Course: CS2210
  * Description: A class that is used to create an object GraphEdge, used as an edge connecting two GraphNodes in a graph.
  */
 public class GraphEdge {

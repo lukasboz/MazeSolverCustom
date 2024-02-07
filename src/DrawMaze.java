@@ -1,10 +1,3 @@
-// ******************************************************
-// Do not change this code. We will make changes to this
-// file for testing your submissions. Hence, if you rely
-// on changes that you have made yourself, your  program
-// might fail some of our tests.
-// ******************************************************
-
 import java.io.*;
 import java.awt.*;
 import java.awt.image.*;

@@ -8,8 +8,6 @@ import java.util.Iterator;
 
 /**
  * @author Lukas Bozinov 
- * Professor: Mr. Solis-Oba 
- * Course: CS2210 
  * Description: A class that is used to create an object Graph, using the previously created objects GraphEdge and GraphNode. 
  * 				This class also implements the methods outlined in GraphADT.
  */
